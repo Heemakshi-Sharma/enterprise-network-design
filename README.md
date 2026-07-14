@@ -34,8 +34,6 @@ The topology consists of:
 - Trunk Links
 - OSPF Routing Links
 
-*A topology diagram will be added in the Topology folder.*
-
 # Technologies Used
 
 - Cisco Packet Tracer
@@ -86,8 +84,6 @@ The following tests were successfully performed:
 - ACL functionality tested
 - Network redundancy verified
 
-Screenshots of these verifications are available in the Screenshots folder.
-
 # Folder Structure
 
 Enterprise-Network-Design/
@@ -102,11 +98,7 @@ Enterprise-Network-Design/
 
 ├── Screenshots/
 
-├── Documentation/
-
 ├── Troubleshooting/
-
-└── Verification/
 
 # Challenges Faced
 
